@@ -3,5 +3,5 @@ Boilerplate para projetos multiplayer com Phaser
 
 Instruções:
 
--npm install para instalar dependências
--npm start para compilar arquivos .ts e iniciar servidor
+1. npm install para instalar dependências
+2. npm start para compilar arquivos .ts e iniciar servidor
